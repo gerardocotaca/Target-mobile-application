@@ -1,0 +1,98 @@
+[
+    {
+        "user": "abc111@email.com",
+        "categories": [
+            "electronics"
+        ],
+        "payment_method": "Credit Card",
+        "total": 10
+    },
+    {
+        "user": "jt0@email.com",
+        "categories": [
+            "grocery"
+        ],
+        "payment_method": "Debit Card",
+        "total": 10
+    },
+    {
+        "user": "9999999999",
+        "categories": [
+            "electronics"
+        ],
+        "payment_method": "PayPal",
+        "total": 10
+    },
+    {
+        "user": "8888888888",
+        "categories": [
+            "toys"
+        ],
+        "payment_method": "Credit Card",
+        "total": 10
+    },
+    {
+        "user": "6666666666",
+        "categories": [
+            "personal hygiene"
+        ],
+        "payment_method": "Debit Card",
+        "total": 10
+    },
+    {
+        "user": "gt3@email.com",
+        "categories": [
+            "electronics"
+        ],
+        "payment_method": "Debit Card",
+        "total": 10
+    },
+    {
+        "user": "gt3@email.com",
+        "categories": [
+            "grocery"
+        ],
+        "payment_method": "Debit Card",
+        "total": 10
+    },
+    {
+        "user": "mc12@mail.com",
+        "categories": [
+            "electronics"
+        ],
+        "payment_method": "Debit Card",
+        "total": 10
+    },
+    {
+        "user": "mc12@email.com",
+        "categories": [
+            "electronics"
+        ],
+        "payment_method": "Debit Card",
+        "total": 10
+    },
+    {
+        "user": "mc20@email.com",
+        "categories": [
+            "electronics"
+        ],
+        "payment_method": "Debit Card",
+        "total": 10
+    },
+    {
+        "user": "mc20@email.com",
+        "categories": [
+            "electronics"
+        ],
+        "payment_method": "Debit Card",
+        "total": 10
+    },
+    {
+        "user": "mc20@email.com",
+        "categories": [
+            "electronics"
+        ],
+        "payment_method": "Debit Card",
+        "total": 10
+    }
+]
