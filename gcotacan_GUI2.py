@@ -1,4 +1,3 @@
-#Gerardo Cota Canez, CIS 345, Online Session B, Final Project Program
 import tkinter as tk
 from tkinter import ttk
 from PIL import Image, ImageTk
