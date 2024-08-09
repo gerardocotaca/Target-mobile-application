@@ -1,4 +1,3 @@
-#Gerardo Cota Canez, CIS 345, Online Session B, Final Project Program
 import unittest
 from ClassFile import User, Product, ShoppingCart
 
